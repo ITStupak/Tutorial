@@ -1,3 +1,3 @@
 # Tutorial
 
-change this file and check git ;)
+This is my first project
